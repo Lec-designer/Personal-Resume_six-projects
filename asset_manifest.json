@@ -1,0 +1,744 @@
+[
+  {
+    "file": "assets-1/media_001.mp4",
+    "mime": "video/mp4",
+    "source_size_mib": 27.14,
+    "final_size_mib": 19.88,
+    "compressed": true
+  },
+  {
+    "file": "assets-2/media_002.mp4",
+    "mime": "video/mp4",
+    "source_size_mib": 19.63,
+    "final_size_mib": 19.63,
+    "compressed": false
+  },
+  {
+    "file": "assets-3/media_003.png",
+    "mime": "image/png",
+    "source_size_mib": 3.07,
+    "final_size_mib": 3.07,
+    "compressed": false
+  },
+  {
+    "file": "assets-3/media_004.png",
+    "mime": "image/png",
+    "source_size_mib": 0.23,
+    "final_size_mib": 0.23,
+    "compressed": false
+  },
+  {
+    "file": "assets-3/media_005.mp4",
+    "mime": "video/mp4",
+    "source_size_mib": 9.83,
+    "final_size_mib": 9.83,
+    "compressed": false
+  },
+  {
+    "file": "assets-3/media_006.png",
+    "mime": "image/png",
+    "source_size_mib": 3.7,
+    "final_size_mib": 3.7,
+    "compressed": false
+  },
+  {
+    "file": "assets-4/media_007.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 2.09,
+    "final_size_mib": 2.09,
+    "compressed": false
+  },
+  {
+    "file": "assets-4/media_008.png",
+    "mime": "image/png",
+    "source_size_mib": 4.44,
+    "final_size_mib": 4.44,
+    "compressed": false
+  },
+  {
+    "file": "assets-4/media_009.png",
+    "mime": "image/png",
+    "source_size_mib": 0.72,
+    "final_size_mib": 0.72,
+    "compressed": false
+  },
+  {
+    "file": "assets-4/media_010.mp4",
+    "mime": "video/mp4",
+    "source_size_mib": 9.33,
+    "final_size_mib": 9.33,
+    "compressed": false
+  },
+  {
+    "file": "assets-4/media_011.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.24,
+    "final_size_mib": 0.24,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_012.png",
+    "mime": "image/png",
+    "source_size_mib": 1.53,
+    "final_size_mib": 1.53,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_013.png",
+    "mime": "image/png",
+    "source_size_mib": 0.98,
+    "final_size_mib": 0.98,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_014.png",
+    "mime": "image/png",
+    "source_size_mib": 2.0,
+    "final_size_mib": 2.0,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_015.png",
+    "mime": "image/png",
+    "source_size_mib": 0.86,
+    "final_size_mib": 0.86,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_016.png",
+    "mime": "image/png",
+    "source_size_mib": 1.33,
+    "final_size_mib": 1.33,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_017.png",
+    "mime": "image/png",
+    "source_size_mib": 1.04,
+    "final_size_mib": 1.04,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_018.png",
+    "mime": "image/png",
+    "source_size_mib": 1.33,
+    "final_size_mib": 1.33,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_019.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 1.06,
+    "final_size_mib": 1.06,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_020.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.74,
+    "final_size_mib": 0.74,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_021.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 1.24,
+    "final_size_mib": 1.24,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_022.png",
+    "mime": "image/png",
+    "source_size_mib": 1.21,
+    "final_size_mib": 1.21,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_023.png",
+    "mime": "image/png",
+    "source_size_mib": 0.77,
+    "final_size_mib": 0.77,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_024.png",
+    "mime": "image/png",
+    "source_size_mib": 0.7,
+    "final_size_mib": 0.7,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_025.png",
+    "mime": "image/png",
+    "source_size_mib": 0.84,
+    "final_size_mib": 0.84,
+    "compressed": false
+  },
+  {
+    "file": "assets-5/media_026.png",
+    "mime": "image/png",
+    "source_size_mib": 1.19,
+    "final_size_mib": 1.19,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_027.png",
+    "mime": "image/png",
+    "source_size_mib": 0.59,
+    "final_size_mib": 0.59,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_028.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.34,
+    "final_size_mib": 0.34,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_029.png",
+    "mime": "image/png",
+    "source_size_mib": 0.32,
+    "final_size_mib": 0.32,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_030.png",
+    "mime": "image/png",
+    "source_size_mib": 0.38,
+    "final_size_mib": 0.38,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_031.png",
+    "mime": "image/png",
+    "source_size_mib": 0.31,
+    "final_size_mib": 0.31,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_032.png",
+    "mime": "image/png",
+    "source_size_mib": 0.36,
+    "final_size_mib": 0.36,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_033.png",
+    "mime": "image/png",
+    "source_size_mib": 0.4,
+    "final_size_mib": 0.4,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_034.png",
+    "mime": "image/png",
+    "source_size_mib": 0.33,
+    "final_size_mib": 0.33,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_035.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.37,
+    "final_size_mib": 0.37,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_036.png",
+    "mime": "image/png",
+    "source_size_mib": 0.29,
+    "final_size_mib": 0.29,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_037.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.38,
+    "final_size_mib": 0.38,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_038.png",
+    "mime": "image/png",
+    "source_size_mib": 0.25,
+    "final_size_mib": 0.25,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_039.png",
+    "mime": "image/png",
+    "source_size_mib": 0.67,
+    "final_size_mib": 0.67,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_040.png",
+    "mime": "image/png",
+    "source_size_mib": 0.47,
+    "final_size_mib": 0.47,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_041.png",
+    "mime": "image/png",
+    "source_size_mib": 0.37,
+    "final_size_mib": 0.37,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_042.png",
+    "mime": "image/png",
+    "source_size_mib": 0.52,
+    "final_size_mib": 0.52,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_043.png",
+    "mime": "image/png",
+    "source_size_mib": 0.34,
+    "final_size_mib": 0.34,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_044.png",
+    "mime": "image/png",
+    "source_size_mib": 0.35,
+    "final_size_mib": 0.35,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_045.png",
+    "mime": "image/png",
+    "source_size_mib": 0.32,
+    "final_size_mib": 0.32,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_046.png",
+    "mime": "image/png",
+    "source_size_mib": 0.64,
+    "final_size_mib": 0.64,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_047.png",
+    "mime": "image/png",
+    "source_size_mib": 0.62,
+    "final_size_mib": 0.62,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_048.png",
+    "mime": "image/png",
+    "source_size_mib": 0.46,
+    "final_size_mib": 0.46,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_049.png",
+    "mime": "image/png",
+    "source_size_mib": 0.24,
+    "final_size_mib": 0.24,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_050.png",
+    "mime": "image/png",
+    "source_size_mib": 0.49,
+    "final_size_mib": 0.49,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_051.png",
+    "mime": "image/png",
+    "source_size_mib": 0.6,
+    "final_size_mib": 0.6,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_052.png",
+    "mime": "image/png",
+    "source_size_mib": 0.53,
+    "final_size_mib": 0.53,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_053.png",
+    "mime": "image/png",
+    "source_size_mib": 0.64,
+    "final_size_mib": 0.64,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_054.png",
+    "mime": "image/png",
+    "source_size_mib": 0.27,
+    "final_size_mib": 0.27,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_055.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.37,
+    "final_size_mib": 0.37,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_056.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.24,
+    "final_size_mib": 0.24,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_057.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.33,
+    "final_size_mib": 0.33,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_058.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.37,
+    "final_size_mib": 0.37,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_059.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.33,
+    "final_size_mib": 0.33,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_060.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.27,
+    "final_size_mib": 0.27,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_061.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.33,
+    "final_size_mib": 0.33,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_062.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.26,
+    "final_size_mib": 0.26,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_063.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.3,
+    "final_size_mib": 0.3,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_064.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.29,
+    "final_size_mib": 0.29,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_065.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.29,
+    "final_size_mib": 0.29,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_066.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.25,
+    "final_size_mib": 0.25,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_067.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.34,
+    "final_size_mib": 0.34,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_068.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.26,
+    "final_size_mib": 0.26,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_069.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.24,
+    "final_size_mib": 0.24,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_070.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.26,
+    "final_size_mib": 0.26,
+    "compressed": false
+  },
+  {
+    "file": "assets-6/media_071.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.25,
+    "final_size_mib": 0.25,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_072.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.08,
+    "final_size_mib": 0.08,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_073.png",
+    "mime": "image/png",
+    "source_size_mib": 0.09,
+    "final_size_mib": 0.09,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_074.png",
+    "mime": "image/png",
+    "source_size_mib": 0.06,
+    "final_size_mib": 0.06,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_075.png",
+    "mime": "image/png",
+    "source_size_mib": 0.02,
+    "final_size_mib": 0.02,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_076.png",
+    "mime": "image/png",
+    "source_size_mib": 0.02,
+    "final_size_mib": 0.02,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_077.png",
+    "mime": "image/png",
+    "source_size_mib": 0.21,
+    "final_size_mib": 0.21,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_078.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.08,
+    "final_size_mib": 0.08,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_079.png",
+    "mime": "image/png",
+    "source_size_mib": 0.19,
+    "final_size_mib": 0.19,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_080.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.02,
+    "final_size_mib": 0.02,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_081.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.02,
+    "final_size_mib": 0.02,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_082.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.02,
+    "final_size_mib": 0.02,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_083.png",
+    "mime": "image/png",
+    "source_size_mib": 0.13,
+    "final_size_mib": 0.13,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_084.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.08,
+    "final_size_mib": 0.08,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_085.png",
+    "mime": "image/png",
+    "source_size_mib": 0.1,
+    "final_size_mib": 0.1,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_086.png",
+    "mime": "image/png",
+    "source_size_mib": 0.1,
+    "final_size_mib": 0.1,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_087.png",
+    "mime": "image/png",
+    "source_size_mib": 0.12,
+    "final_size_mib": 0.12,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_088.png",
+    "mime": "image/png",
+    "source_size_mib": 0.16,
+    "final_size_mib": 0.16,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_089.png",
+    "mime": "image/png",
+    "source_size_mib": 0.04,
+    "final_size_mib": 0.04,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_090.png",
+    "mime": "image/png",
+    "source_size_mib": 0.07,
+    "final_size_mib": 0.07,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_091.png",
+    "mime": "image/png",
+    "source_size_mib": 0.2,
+    "final_size_mib": 0.2,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_092.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.1,
+    "final_size_mib": 0.1,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_093.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.22,
+    "final_size_mib": 0.22,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_094.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.21,
+    "final_size_mib": 0.21,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_095.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.12,
+    "final_size_mib": 0.12,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_096.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.15,
+    "final_size_mib": 0.15,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_097.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.1,
+    "final_size_mib": 0.1,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_098.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.17,
+    "final_size_mib": 0.17,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_099.webp",
+    "mime": "image/webp",
+    "source_size_mib": 0.17,
+    "final_size_mib": 0.17,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_100.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.2,
+    "final_size_mib": 0.2,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_101.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.19,
+    "final_size_mib": 0.19,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_102.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.2,
+    "final_size_mib": 0.2,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_103.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.22,
+    "final_size_mib": 0.22,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_104.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.22,
+    "final_size_mib": 0.22,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_105.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.22,
+    "final_size_mib": 0.22,
+    "compressed": false
+  },
+  {
+    "file": "assets-7/media_106.jpg",
+    "mime": "image/jpeg",
+    "source_size_mib": 0.2,
+    "final_size_mib": 0.2,
+    "compressed": false
+  }
+]
